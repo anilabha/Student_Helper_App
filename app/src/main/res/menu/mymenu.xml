@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Info"
+        android:id="@+id/info"></item>
+    <item android:title="Visit My Website"
+        android:id="@+id/contact"></item>
+    <item android:title="Contact Me"
+        android:id="@+id/wp"></item>
+    <item android:title="Give Review"
+        android:id="@+id/googleform"></item>
+
+
+</menu>

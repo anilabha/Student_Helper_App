@@ -1,0 +1,1435 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Student Helper</string>
+    <string name="title">Title</string>
+    <string name="syllabus">Syllabus</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Learn Programming </item>
+        <item> Holidays </item>
+        <item> MAKAUT Website </item>
+        <item> NPTEL Online Courses </item>
+        <item> Link To My Youtube Channel</item>
+        <item> Learn Onine </item>
+        <item> Scientific Calculator </item>
+        <item> Steam-Table </item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5 </item>
+        <item> Description 6 </item>
+        <item> Description 7 </item>
+        <item> Description 8 </item>
+        <item> Description 9 </item>
+        <item> Description 10 </item>
+        <item> Description 11 </item>
+
+    </string-array>
+    <string-array name="faculty">
+        <item> Dr. Pradipta Kumar Banerjee </item>
+        <item> Dr. A.K. Ghosh </item>
+        <item> Mr. Santanu Bera </item>
+        <item> Mr. Subhajit Kar </item>
+        <item> Mr. Ujjal Sur </item>
+        <item> Mr. Avijit Saha </item>
+        <item>  Mr. Arnab Roy </item>
+        <item> Mr. Amitava Bhattacharjee </item>
+        <item> Mr. Dipayan Nath </item>
+        <item> Ms. Debosmita Chakrobortty </item>
+    </string-array>
+
+    <string-array name="facme">
+        <item>Dr. Moloy Kumar Banerjee</item>
+        <item>Dr. Manoj Kumar Barai</item>
+        <item>Mr. Rahul Mukherjee</item>
+        <item>Mr. Subhasis Chanda</item>
+        <item>Mrs. Chandrani Guha</item>
+        <item>Mr. Anirban Das</item>
+        <item>Mrs. Jhuma Das</item>
+        <item>Mr. Plaban Sen</item>
+        <item>Mr.Pallab Basu Mallik</item>
+        <item>Mr. JITENDRA PATRA</item>
+
+        <item>Mr. SUBHADIP RAY</item>
+    </string-array>
+
+    <string-array name="facaeie">
+        <item>Mr. Jyotirmoy Gupta</item>
+        <item>Mr. Swapan Das</item>
+        <item>Dr. Samik Marick</item>
+        <item>Mr. Dipankar Mandal</item>
+        <item>Mr. Milan Dhara</item>
+        <item>Mr. Sanjoy Banerjee</item>
+    </string-array>
+
+    <string-array name="aeiefacdetails">
+        <item>
+            M.Tech\nHead of the Department\nAssociate Professor
+        </item>
+        <item>M.Tech\nAssistant Professor</item>
+        <item>Ph.D\nASSOCIATE PROFESSOR</item>
+        <item>M.Tech\nAssistant Professor</item>
+        <item>M.Tech\nAssistant Professor</item>
+        <item>M.Tech\nAssistant Professor</item>
+    </string-array>
+
+    <string-array name="mefacdetails">
+        <item>Ph.D \nHead of the Department, Professor</item>
+        <item>Ph.D \nAssociate Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.E. \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.E. \nAssistant Professor</item>
+        <item>M.E. \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+
+    </string-array>
+
+    <string-array name="facdetails">
+        <item> B.Sc (H), B.Tech , M.Tech , Ph.D \n Head of the Department, Associate Professor
+</item>
+        <item>M.Tech \nProfessor</item>
+        <item>M. Tech \nAssistant Professor</item>
+        <item>M. Tech \nAssistant Professor</item>
+        <item>M. Tech \nAssistant Professor</item>
+        <item>M. E. \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+        <item>M.E. \nAssistant Professor</item>
+        <item>M.Tech \nAssistant Professor</item>
+    </string-array>
+
+    <string-array name="dept">
+        <item>Electrical</item>
+        <item>Mechanical</item>
+        <item>AEIE</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Get routine</item>
+        <item>Get routine</item>
+        <item>Get routine</item>
+    </string-array>
+
+    <string-array name="desc1">
+        <item>Get Syllabus</item>
+        <item>Get Syllabus</item>
+        <item>Get Syllabus</item>
+    </string-array>
+
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+        <item> Sunday </item>
+    </string-array>
+
+    <string-array name="Week_">
+        <item> Monday_ </item>
+        <item> Tuesday_ </item>
+        <item> Wednesday_ </item>
+        <item> Thursday_ </item>
+        <item> Friday_ </item>
+        <item> Saturday_ </item>
+        <item> Sunday_ </item>
+    </string-array>
+
+    <string-array name="Week_aeie">
+        <item> Monday__ </item>
+        <item> Tuesday__ </item>
+        <item> Wednesday__ </item>
+        <item> Thursday__ </item>
+        <item> Friday__ </item>
+        <item> Saturday__ </item>
+        <item> Sunday__ </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>EE-401(A.S)</item>
+        <item>HU-401(J.M)</item>
+        <item>continue</item>
+        <item>Break</item>
+        <item>CH-401(D.R)</item>
+        <item>PH-401(B.B)</item>
+        <item>EMPTY</item>
+        <item>R-LAB(GRP-A BY A.S)</item>
+
+    </string-array>
+    <string-array name="Monday_">
+        <item>M402-(TRC)</item>
+        <item>CONT..</item>
+        <item>ME402-(CG)</item>
+        <item>Break</item>
+        <item>MCS401-(KSR)</item>
+        <item>CONT...</item>
+        <item>EMPTY</item>
+        <item>LAB-ME492(JD)FOR GRP B \n ME491(SC) FOR GRP A</item>
+
+
+    </string-array>
+
+    <string-array name="Monday__">
+        <item>EE-402(AR)</item>
+        <item>EI-402(BA)</item>
+        <item>CONT..</item>
+        <item>BREAK</item>
+        <item>EI-401(JG)</item>
+        <item>PH-401(AB)</item>
+        <item>HU-401(JM)</item>
+        <item>CONT..UPTO 3:50</item>
+    </string-array>
+
+
+    <string-array name="Tuesday">
+        <item>EE-402(S.M)</item>
+        <item>CONTINUE</item>
+        <item>CH-401(AV.C)</item>
+        <item>Break</item>
+        <item>EE-401(A.S)</item>
+        <item>CONTINUE</item>
+        <item>PH-401(S.M)</item>
+        <item>LAB---EE-491(GRP-A BY A.S+A.B) AND EE-492(GRP-B BY D.M)</item>
+    </string-array>
+    <string-array name="Tuesday_">
+        <item>LAB--ME-491(SC)FOR GRP B \n ME-494(PS) FOR GRP A </item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>Break</item>
+        <item>LAB--MCS-491 FOR GRP A \n ME-493(RM) FOR GRP B</item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>MCS401-(TRC)</item>
+
+    </string-array>
+    <string-array name="Tuesday__">
+        <item>LAB--HU-481(KDM)-GRP-A\nEI-492(BA)-GRP-B</item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>BREAK</item>
+        <item>EMPTY</item>
+        <item>CH-401(DR)</item>
+        <item>EI-401(BA)</item>
+        <item>CONT..UPTO 3:50</item>
+    </string-array>
+
+
+    <string-array name="Wednesday">
+        <item>CH-401(S.S)</item>
+        <item>ME-411(S.C)</item>
+        <item>CONTINUE</item>
+        <item>Break</item>
+        <item>LAB--PH-491(GRP -A BY  A.M)\n ME-481(GRP-B BY S.C)</item>
+        <item>CONTINUE</item>
+        <item>CONTINUE</item>
+        <item>EMPTY</item>
+
+    </string-array>
+    <string-array name="Wednesday_">
+        <item>LAB--ME-494(AD)FOR GRP B \n ME-492(RM)FOR GRP A </item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>Break</item>
+        <item>ME-401(MKB)</item>
+        <item>CONT..</item>
+        <item>ME-402(PS)</item>
+        <item>ME-403(RM)</item>
+
+    </string-array>
+    <string-array name="Wednesday__">
+        <item>EE-402(AR)</item>
+        <item>CONT..</item>
+        <item>CH-401(SS)</item>
+        <item>BREAK</item>
+        <item>PH-401(BB)</item>
+        <item>HU-401(JM)</item>
+        <item>EI-401(JG)</item>
+        <item>LAB--EI-491(MD)-GRP-A\nPH-491(AB)-GRP-B</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>ME-411(S.C)</item>
+        <item>EE-402(D.M)</item>
+        <item>CONTINUE</item>
+        <item>Break</item>
+        <item>PH-401(S.M)</item>
+        <item>EE-401(A.S)</item>
+        <item>EMPTY</item>
+        <item>LAB--EE-492(GRP-A BY D.M)\n EE-491(GRP-B BY A.B+A.S)</item>
+    </string-array>
+
+    <string-array name="Thursday_">
+        <item>M-402(KSR)</item>
+        <item>ME-403(RM)</item>
+        <item>ME-401(SC)</item>
+        <item>Break</item>
+        <item>LAB--MCS-491(KSR) FOR GRP B \n ME-493(MB) FOR GRP A</item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>EMPTY</item>
+    </string-array>
+    <string-array name="Thursday__">
+        <item>LAB--EI-492(BA)GRP-A\nHU-481(KDM)-GRP-B</item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>BREAK</item>
+        <item>CH-401(AVC)</item>
+        <item>EI-402(BA)</item>
+        <item>CONT..</item>
+        <item>EMPTY</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>LAB--ME-481(GRP-A BY S.C) \n PH-491(GRP-B BY A.B)</item>
+        <item>CONTINUE</item>
+        <item>CONTINUE</item>
+        <item>Break</item>
+        <item>PH-401(A.B)</item>
+        <item>ME-411(S.C)</item>
+        <item>HU-401(J.M)</item>
+        <item>LAB--R-lab (GRP-B BY A.S)</item>
+
+    </string-array>
+    <string-array name="Friday_">
+        <item>M-402(ARB)</item>
+        <item>ME-402(CG)</item>
+        <item>CONT..</item>
+        <item>Break</item>
+        <item>ME-403(SR)</item>
+        <item>CONT..</item>
+        <item>ME-401(SC)</item>
+        <item>EMPTY</item>
+
+    </string-array>
+    <string-array name="Friday__">
+        <item>PH-401(SM)</item>
+        <item>CONT..</item>
+        <item>EE-402(AR)</item>
+        <item>BREAK</item>
+        <item>LAB--PH-491(SM)-GRP-A\nEI-491(SD)-GRP-B</item>
+        <item>CONT..</item>
+        <item>CONT..</item>
+        <item>EMPTY</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>Self Study \n
+            And Take Rest
+        </item>
+    </string-array>
+    <string-array name="Saturday_">
+        <item>Self Study \n
+            And Take Rest
+        </item>
+    </string-array>
+    <string-array name="Saturday__">
+        <item>Self Study \n
+            And Take Rest
+        </item>
+    </string-array>
+    <string-array name="Sunday">
+        <item>NO STUDY \n
+            ONLY SLEEP UNTIL 12 PM\n
+            TAKE REST
+        </item>
+
+    </string-array>
+    <string-array name="Sunday_">
+        <item>NO STUDY \n
+            ONLY SLEEP UNTIL 12 PM\n
+            TAKE REST
+        </item>
+
+    </string-array>
+    <string-array name="Sunday__">
+        <item>NO STUDY \n
+            ONLY SLEEP UNTIL 12 PM\n
+            TAKE REST
+        </item>
+
+    </string-array>
+
+    <string-array name="time1">
+        <item>9:40AM - 10:30AM</item>
+        <item>10:30AM - 11:20AM</item>
+        <item>11:20AM - 12:10PM</item>
+        <item>12:10PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>1:20PM - 2:10PM</item>
+        <item>2:10PM - 3:00PM</item>
+        <item>3:00PM - 5:30PM</item>
+
+    </string-array>
+
+    <string-array name="time2">
+        <item>9:40AM - 10:30AM</item>
+        <item>10:30AM - 11:20AM</item>
+        <item>11:20AM - 12:10PM</item>
+        <item>12:10PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>1:20PM - 2:10PM</item>
+        <item>2:10PM - 3:00PM</item>
+        <item>3:00PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>9:40AM - 10:30AM</item>
+        <item>10:30AM - 11:20AM</item>
+        <item>11:20AM - 12:10PM</item>
+        <item>12:10PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>1:20PM - 2:10PM</item>
+        <item>2:10PM - 3:00PM</item>
+        <item>3:00PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>9:40AM - 10:30AM</item>
+        <item>10:30AM - 11:20AM</item>
+        <item>11:20AM - 12:10PM</item>
+        <item>12:10PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>1:20PM - 2:10PM</item>
+        <item>2:10PM - 3:00PM</item>
+        <item>3:00PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>9:40AM - 10:30AM</item>
+        <item>10:30AM - 11:20AM</item>
+        <item>11:20AM - 12:10PM</item>
+        <item>12:10PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>1:20PM - 2:10PM</item>
+        <item>2:10PM - 3:00PM</item>
+        <item>3:00PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item></item>
+    </string-array>
+
+    <string-array name="time7">
+        <item></item>
+    </string-array>
+
+
+    <string-array name="Subjects">
+        <item> ElectricMachine </item>
+        <item> Electrical_Electronic_measurement </item>
+        <item> Thermal_Power_Engineering </item>
+        <item> Physics </item>
+        <item> Values_and_Ethics_in_Profession </item>
+        <item> Basic_Environmental_Engineering_and_Elementary_Biology </item>
+
+    </string-array>
+
+    <string-array name="Submech">
+        <item>Numerical_Methods</item>
+        <item>Fluid_Machanics_and_Hydraulic_Machines</item>
+        <item>Mechanisms</item>
+        <item>Primary_Manufacturing_Processes</item>
+        <item>Mathematics_III</item>
+    </string-array>
+
+    <string-array name="Subaeie">
+        <item>Field_Theory</item>
+        <item>SENSORS_AND_TRANSDUCERS</item>
+        <item>Microprocessor_and_Computer_Architecture</item>
+        <item>Value_and_Ethics_in_Profession</item>
+        <item>Basic_Environmental_Engineering_Elementary_Biology</item>
+        <item>Physics_2</item>
+    </string-array>
+    <string-array name="Field_Theory">
+        <item>Module I
+Vector calculus – orthogonal Coordinate Systems, Transformations of coordinate systems; Del
+operator; Gradient, Divergence, Curl – their physical interpretations; Laplacian operator. [4]
+Coulombs law, electric field intensity, charge distribution.; Gauss’ law, flux density and electric field
+intensity. Divergence theorem. Current Densities, Conductors, Poissons and Laplace’s equations,
+Uniqueness theorem, Biot-Savart law, Ampere’s law, Relation between J and H, Vector magnetic
+Potential, Stokes’ theorem. [6] </item>
+        <item>Module II
+Faraday’s law and Lenzs law, Displacement Current, J C –J D Relation, Maxwells equations,
+Timeharmonic fields, Wave Equation, Boundary Conditions between media interface; Uniform Plane
+wave; Wave Propagation in Lossy Dielectric, Loss-less Dielectric, Free space. Poynting Theorem,
+Power flow, Poynting vector. Wave polarizations. [9] </item>
+        <item>Module III
+Transmission Lines: Concept of Lump parameters and Distributed parameters, Line Parameters,
+Transmission line equations and solutions, Physical significance of the solutions. Propagation
+constant, Characteristic Impedance; Wavelength; Velocity of Propagation; Distortion-less Line,
+Reflection and Transmission coefficients; Standing Waves, VSWR, Input Impedance, Load Matching
+Techniques. [9] </item>
+        <item>empty</item>
+        <item>Books:
+1. Principles of Electromagnetics, 4th Edition, Matthew O H Sadiku, Oxford University Press.
+2. Engineering Electromagnetics, 7thEdition-W.H.Hayt and J.A.Buck, Tata-McGraw-Hill
+3. Theory and problems of Electromagnetic, Edminister, 2nd Edition, Tata-McGraw-Hill
+4. Electromagnetic Field Theory ans Transmission Lines, G.S.N. Raju, Pearson Education
+5. Electromagnetic field theory fundamentals, Guru and Hizroglu, 2nd edition, Cambridge University
+Press.
+6. Engineering Electromagnetics, 2ed Edition - Nathan Ida, Springer India
+7. Elements of Engineering Electromagnetic, N.N. Rao, 6th Edition, Pearson Education.
+8. Electromagnetic Waves and Transmission Lines- by G.Prasad, J.Prasad and J.Reddy- Scitech</item>
+        <item>empty</item>
+    </string-array>
+
+    <string-array name="SENSORS_AND_TRANSDUCERS">
+        <item>Module I
+Definition, principles of sensing and transduction, classification [1]
+Mechanical and Electromechanical sensors
+. Resistive (potentiometric) type: Forms, materials, resolution, accuracy, sensitivity [2]
+. Strain Gauges: theory, types, materials, design consideration, sensitivity, gauge factor, variation
+with temperature, adhesives, rosettes, applications force, velocity and torque measurements [3]
+. Inductive sensors: common types- reluctance change type, mutual inductance change type,
+transformer action type, - brief discussion with respect to materials, construction and input output
+variables, Ferromagnetic plunger type-short analysis; proximity measurement [3]
+. LVDT: Construction, materials, output-input relationship, I/O curve, discussion [2] </item>
+        <item>Module II
+Capacitive sensors: Variable distance- parallel plate type, Variable area- parallel plate, serrated plate/
+teeth type and cylindrical type, variable dielectric constant type: calculation of sensitivities;
+proximity measurement [3]
+Stretched Diaphragm type: microphones, response characteristics [1]
+Piezoelectric elements: piezoelectric effects, charge and voltage coefficients, crystal model,
+materials, natural and synthetic types – their comparison, force and stress sensing, piezoelectric
+accelerometer [3]
+Tachometers – Stroboscopes, Encoders, seismic accelerometer, Measurement of vibration. [3] </item>
+        <item>Module III
+Industrial weighing systems : Link–lever mechanism, Load cells – pneumatic, piezoelectric, elastic
+and magneto-elastic types - their mounting, pressductor, different designs of weighing systems,
+conveyors type, weighfeeder type. [5]
+Thermal sensors: [6]
+Resistance change type: RTD - materials, construction, types, working principle
+Thermister - materials, construction, types, working principle
+Thermoemf sensors: Thermocouple - types, working principle
+Thermopile - types, working principle
+</item>
+        <item>Module IV
+Magnetic sensors: Sensors based on Villari effect for assessment of force, torque, rpm meters,
+proximity measurement
+Hall effect and Hall drive, performance characteristics [4]
+Geiger counters, Scintillation detectors [2]
+Introduction to Smart sensors [2] </item>
+        <item>Books:
+1. D Patranabis, Sensors and Transducers, PHI, 2nd ed.
+2. E. A. Doebelin, Measurement Systems: Application and Design Mc Graw Hill, New York
+3. H. K. P. Neubert, Instrument Transducers, Oxford University Press, London and Calcutta</item>
+        <item>empty</item>
+    </string-array>
+
+    <string-array name="Microprocessor_and_Computer_Architecture">
+        <item>Module I: [10]
+Introduction to microprocessors: Overview of 8085, Internal architecture, Pin Diagram description.
+Software instruction set and Assembly Language Programming. Addressing Modes. </item>
+        <item>Module II: [10]
+Instruction cycle, machine cycle, Timing diagrams.
+Interrupts: Introduction, Interrupt vector table, Interrupt service routine, Design of programs using
+interrupts. DMA operation.
+Stack and Stack Handling, Call and subroutine, Counter and Time delay generation. </item>
+        <item>Module III: [12]
+Hardware Interfacing: Interfacing memory, Interfacing I/O devices.
+Programmable peripheral devices (PPI) – Intel 8255, Programmable interval timer – Intel 8254,
+Programmable Keyboard/Display Controller- Intel 8279, A/D and D/A converters and interfacing of
+the same. </item>
+        <item>Module IV: [8]
+General organization of a digital computer, Architecture classification, Parallel
+computersclassification,
+Harvard architecture, Von Neumann architecture, Pipelining, pipeline hazards, Multiprocessors,
+Array processors. </item>
+        <item>Books:
+1. Microprocessor architecture, programming and applications with 8085/8085A, Wiley eastern Ltd,
+1989 by Ramesh S. Gaonkar.
+2. Intel Corp: The 8085 / 8085A. Microprocessor Book – Intel marketing communication, Wiley inter
+science publications, 1980.
+3. Fundamental of Microprocessor and Microcontrollers, Dhanpat Rai Publications, By B.Ram
+4. Computer Architecture and Organization, McGraw Hill, by J.P.Hayes.
+5. Computer System Architecture, Pearson, by M. Mano.
+6. Computer Architecture – A Quantitative Approach, John Hennessy and David A Patterson.</item>
+        <item>empty</item>
+    </string-array>
+
+    <string-array name="Value_and_Ethics_in_Profession">
+        <item>Effects of Technological Growth:
+Rapid Technological growth and depletion of resources, Reports of the Club of Rome. Limits of
+growth: sustainable development
+Energy Crisis: Renewable Energy Resources
+Environmental degradation and pollution. Eco-friendly Technologies. Environmental Regulations,
+Environmental Ethics
+Appropriate Technology Movement of Schumacher; later developments
+Technology and developing notions. Problems of Technology transfer, Technology assessment
+impact analysis.
+Human Operator in Engineering projects and industries. Problems of man, machine, interaction,
+Impact of assembly line and automation. Human centered Technology. </item>
+        <item>Ethics of Profession:
+Engineering profession: Ethical issues in Engineering practice, Conflicts between business demands
+and professional ideals. Social and ethical responsibilities of Technologists. Codes of professional
+ethics. Whistle blowing and beyond, Case studies. </item>
+        <item>Profession and Human Values:
+Values Crisis in contemporary society
+Nature of values: Value Spectrum of a good life
+Psychological values: Integrated personality; mental health
+Societal values: The modern search for a good society, justice, democracy, secularism, rule of law,
+values in Indian Constitution.
+Aesthetic values: Perception and enjoyment of beauty, simplicity, clarity
+Moral and ethical values: Nature of moral judgements; canons of ethics; ethics of virtue; ethics of
+duty; ethics of responsibility. </item>
+        <item>empty</item>
+        <item>Books:
+1. Stephen H Unger, Controlling Technology: Ethics and the Responsible Engineers, John Wiley and
+Sons, New York 1994 (2nd Ed)
+2. Deborah Johnson, Ethical Issues in Engineering, Prentice Hall, Englewood Cliffs, New Jersey 1991.
+3. A N Tripathi, Human values in the Engineering Profession, Monograph published by IIM, Calcutta
+1996.</item>
+        <item>empty</item>
+    </string-array>
+
+    <string-array name="Basic_Environmental_Engineering_Elementary_Biology">
+        <item>General
+Basic ideas of environment, basic concepts, man, society and environment, their interrelationship. [1L]
+Mathematics of population growth and associated problems, Importance of population study in
+environmental engineering, definition of resource, types of resource, renewable, non-renewable,
+potentially renewable, effect of excessive use vis-a-vis population growth, Sustainable
+Development. [2L]
+Materials balance: Steady state conservation system, steady state system with non conservative
+pollutants, step function. [1L]
+Environmental degradation: Natural environmental Hazards like Flood, earthquake, Landslidecauses, effects and control/management; Anthropogenic degradation like Acid rain-cause, effects
+and control. Nature and scope of Environmental Science and Engineering. [2L]
+Ecology
+Elements of ecology: System, open system, closed system, definition of ecology, species, population,
+community, definition of ecosystem- components types and function. [1L]
+Structure and function of the following ecosystem: Forest ecosystem, Grassland ecosystem, Desert
+ecosystem, Aquatic ecosystems, Mangrove ecosystem (special reference to Sundar ban); Food chain
+[definition and one example of each food chain], Food web. [2L]
+Biogeochemical Cycle- definition, significance, flow chart of different cycles with only elementary
+reaction [Oxygen, carbon, Nitrogen, Phosphate, Sulphur]. [1L]
+Biodiversity- types, importance, Endemic species, Biodiversity Hot-spot, Threats to biodiversity,
+Conservation of biodiversity. [2L] </item>
+        <item>Air pollution and control
+Atmospheric Composition: Troposphere, Stratosphere, Mesosphere, Thermosphere, Tropopause
+and Mesopause. [1L]
+Energy balance: Conductive and Convective heat transfer, radiation heat transfer, simple global
+temperature model [Earth as a black body, earth as albedo], Problems. [1L]
+Green house effects: Definition, impact of greenhouse gases on the global climate and consequently
+on sea water level, agriculture and marine food.Global warming and its consequence, Control of
+Global warming. Earth’s heat budget. [1L]
+Lapse rate: Ambient lapse rate Adiabatic lapse rate, atmospheric stability, temperature inversion
+(radiation inversion). [2L]
+Atmospheric dispersion: Maximum mixing depth, ventilation coefficient, effective stack height,
+smokestack plumes and Gaussian plume model. [2L]
+Definition of pollutants and contaminants, Primary and secondary pollutants: emission standard,
+criteria pollutant. Sources and effect of different air pollutants- Suspended particulate matter, oxides
+of carbon, oxides of nitrogen, oxides of sulphur, particulate, PAN. [2L]
+Smog, Photochemical smog and London smog. Depletion Ozone layer: CFC, destruction of ozone
+mywbut.com
+layer by CFC, impact of other green house gases, effect of ozone modification. [1L]
+Standards and control measures: Industrial, commercial and residential air quality standard, control
+measure (ESP. cyclone separator, bag house, catalytic converter, scrubber (ventury), Statement with
+brief reference). [1L]</item>
+        <item>Water Pollution and Control
+Hydrosphere, Hydrological cycle and Natural water. Pollutants of water, their origin and effects:
+Oxygen demanding wastes, pathogens, nutrients, Salts, thermal application, heavy metals,
+pesticides, volatile organic compounds. [2L]
+River/Lake/ground water pollution: River: DO, 5 day BOD test, Seeded BOD test, BOD reaction rate
+constants, Effect of oxygen demanding wastes on river[deoxygenation, reaeration], COD, Oil,
+Greases, pH. [2L]
+Lake: Eutrophication [Definition, source and effect. [1L]
+Ground water: Aquifers, hydraulic gradient, ground water flow (Definition only) [1L]
+Standard and control: Waste water standard [BOD, COD, Oil, Grease], Water Treatment system
+[coagulation and flocculation, sedimentation and filtration, disinfection, hardness and
+alkalinity, softening]
+Waste water treatment system, primary and secondary treatments [Trickling filters, rotating
+biological contractor, Activated sludge, sludge treatment, oxidation ponds] tertiary treatment
+definition. [2L]
+Water pollution due to the toxic elements and their biochemical effects: Lead, Mercury, Cadmium,
+and Arsenic [1L] </item>
+        <item>Land Pollution
+Lithosphere; Internal structure of earth, rock and soil [1L]
+Solid Waste: Municipal, industrial, commercial, agricultural, domestic, pathological and hazardous
+solid wastes; Recovery and disposal method- Open dumping, Land filling, incineration, composting,
+recycling. Solid waste management and control (hazardous and biomedical waste). [2L]
+Noise Pollution
+Definition of noise, effect of noise pollution, noise classification [Transport noise, occupational noise,
+neighbourhood noise] [1L]
+Definition of noise frequency, noise pressure, noise intensity, noise threshold limit value, equivalent
+noise level, L10 (18hr Index) , n Ld . Noise pollution control. [1L]
+Environmental Management:
+Environmental impact assessment, Environmental Audit, Environmental laws and protection act of
+India, Different international environmental treaty/ agreement/ protocol. [2L] </item>
+        <item>empty</item>
+        <item>References/Books
+1. Masters, G. M., “Introduction to Environmental Engineering and Science”, Prentice-Hall of India
+Pvt. Ltd., 1991.
+2. De, A. K., “Environmental Chemistry”, New Age International.</item>
+    </string-array>
+    <string-array name="Physics_2">
+        <item>Quantum mechanics:
+• Generalized co-ordinates, Lagranges equation of motion and Lagrangian, generalized force potential,
+moment and energy. Hamiltons Equation of motion and Hamiltonian. Properties of Hamilton and
+Hamiltons equation of motion. [6]
+•Concept of probability and probability density, operator, Commutator, Formulation of quantum
+mechanics and Basic postulates, Operator correspondence, Time dependent Schrodingers equation,
+formulation of time independent Schrodingers equation by method of separation of variables, Physical
+interpretation of wave function Ψ(normalization and probability interpretation), Expectation values,
+Application of Schrodinger equation-Particle in an infinite square well potential (1-D and 3-D potential
+well), Discussion on degenerate levels. [10] </item>
+        <item>Statistical mechanics:
+•Concept of energy levels and energy states. Microstates, Macrostates and thermodynamic probability,
+equilibrium macrostate. MB, FD, BE statistics (no deduction necessary), fermions, bosons (definitions in
+terms of spin, examples), physical significance and application, classical limits of quantum statistics. Fermi
+distribution at zero and non –zero temperature. [4] </item>
+        <item>Dielectric Properties:
+•Dielectric Material: Concept of Polarization, the relation between D, E and P, Polarizability, Electronic,
+Ionic, Orientation and Space charge polarization, behavior of Dielectric under alternating field, Dielectric
+losses. [3]
+        The Magnetic properties:
+•Magnetization M, relation between B, H and M. Bohr megneton, Diamagnetism-Larmor frequency and
+susceptibility, Curie law, Weiss molecular field theory and Curie-Weiss law, Hysteresis loss,
+Antiferromagnetism, Ferromagnetism and Ferrites (analitative). [4]
+        </item>
+        <item>Crystal structure
+•Crystal structure- Bravais lattice, Miller indices [1]
+•Crystal diffraction (qualitative), Braggs law and reciprocal lattice,Brillouin zone. (Qualitative description)
+[2]
+•Free electron theory of metal –calculation of Fermi energy, density of states. [2]
+•Band theory of solids- Bloch theorem, Kronig Penny model. [3]
+•Electronic conduction in solids-Drudes theory, Boltzmann equation, Wiedemann Frantz law. [3]
+•Semiconductor-Band structure, concept of electron and holes, Fermi level, density of states. [3]</item>
+        <item>Text Books:
+1. Perspectives of Modern Physics: A. Baiser
+2. Modern Physics and Quantum Mechanics E.E. Anderson
+2.Refresher course in B.Sc. Physics (Vol. III): C.L. Arora
+3.Fundamentlas of Physics (Vol. III): Haliday, Resnick and Krane
+4.Engineering Physics: R.K. Kar
+5.Classical Mechanics: a) A.K. Roychaudhuri
+b) R.G. Takwal and P.S. Puranic
+6. Quantum Mechanics: a) Eisberg and Resnic </item>
+        <item>empty</item>
+    </string-array>
+
+
+    <string-array name="Primary_Manufacturing_Processes">
+        <item>Module 1. Introduction
+Manufacturing; Definitions and broad grouping </item>
+        <item>Module 2. Casting
+Introduction
+History
+Definition
+Major Classification
+Casting Materials
+Sand mould casting
+Moulding sands: composition, properties and testing
+Design of gating system: sprue, runner, ingate and riser
+Estimation of powering time
+Foundry equipments, Furnaces
+Melting, pouring and solidification
+Type of patterning, use of a core
+Different type of sand mould casting
+Floor mould casting
+Centrifugal casting
+Shell mould and CO2 casting
+Investment casting
+Permanent mould casting
+Die casting, types, methods, advantages and applications
+Slush casting, principle and use
+Casting defects, types, causes and remedy </item>
+        <item>Module 3. Welding
+Introduction to metallic parts
+Major grouping of joining processes, welding, brazing and
+soldering
+Broad classification of welding processes, types and principles
+Fusion welding, types, principles, equipments, characteristics and applications
+Sources of heat-chemical action,
+Gas welding and thermit welding
+Sources of heat-electrical energy,
+Arc welding
+Submerged arc welding
+TIG and MIG; Plasma arc welding
+Resistance welding; Spot and butt welding
+Solid state welding
+Principles, advantages and applications of:
+Hot forge welding,
+Friction welding
+Pressure and percussion welding
+Precision welding processes:
+Ultrasonic welding
+Laser beam welding
+Electron beam welding
+Welding defects, types, causes and remedy 1 </item>
+        <item>Module 4. Forming Processes
+Forging
+Introduction, definition, classification, hot forging and cold forging, characteristics and applications
+Forging material operations, equipments and tools:
+Smith forging
+Drop forging
+Pressing or press forging
+Forging dies, materials and design
+Rolling
+Introduction, basic principles, hot rolling and cold rolling, characteristics and applications
+mywbut.com
+Rolling processes and applications, operations, equipment and roll stands
+Wire drawing and extensions
+Basic principles and requirements
+Classification, methods and applications
+Press tool works
+Basic principles, systems, operations and applications
+Shearing, parting, blanking, piercing and notching
+Cupping(drawing), Spinning and deep drawing
+Blanks and forces needed for shearing and drawing operations
+Coining and embossing</item>
+        <item>Text Books:
+1. Manufacturing technology, Foundry, Forming and Welding-P.N Rao.
+2. Manufacturing Science-A Ghosh and A Mullick.
+3. Manufacturing Engineering and Technology-S Kalpakjian; Pub:Addison Wesley.
+4. Principles of manufacturing materials and processes-James and Campbell. </item>
+        <item>Reference Books:
+1. Manufacturing engineering and technology-K Jain.
+2. Materials and processes in manufacturing-E.P Degarmo, Black and Kohser, Pub: Wiley(10th ed.)
+3. Processes and materials of manufacturing-R.A Lindberg.
+4. Introduction to manufacturing technology-PP Date, Pub: Jaico.
+5. Manufacturing processes-S.K Sharma and S Sharma, Pub: I.K International</item>
+    </string-array>
+
+
+    <string-array name="Fluid_Machanics_and_Hydraulic_Machines">
+        <item>
+            Fluid mechanics
+Module 1
+Review of fluid properties and fluid statics. Hydraulic forces on submerged surfaces; forces or vertical, horizontal, inclined and
+curved surfaces. [02]
+Kinematics of fluid flow: fluid flow and classifications. Continuity equation in 1D and 3D. Potential flow and Stream function; types
+of flow lines. [03]
+Module 2
+Dynamics of fluid: equations of motion; Eulers equation; Bernoullis equation; Applications of Bernoulli’s equation. [04]
+Momentum Analysis of flow systems; the linear momentum equation for steady flow, differential approach. [03]
+Module 3
+Flow through pipes; Darcy –Weisbach equation of friction loss; hydraulic grade line and total energy line. [03]
+Module 4
+Basic principle for flow through orifices, V-notches (rectangular-v), weirs (rectangular). Flow through open channels; use of
+Chezy’s formula. [04]
+Module 5
+Dimensional Analysis and Model investigation applied to flow systems –Buckingham Pi theorem. Dimensionless numbers in fluid
+flow. [02]
+Flow of fluid around submerged bodies; basic concepts of drag and lift. [02]
+Boundary layer –definition; Boundary layer separation –basic concept. [02]
+
+            </item>
+        <item>Hydraulic Machines
+Module 6
+Hydraulic Turbines; Principles and Classifications; Design and working principle of a Pelton Wheel, efficiency and performance
+curves. Francis Turbine, Kaplan Turbine. Function of Draft Tube. Cavitation in Turbines. [05]
+Module 7
+Reciprocating Pumps: Components and Principles, Classification, discharge, work done, power requirement. [05]
+Module 8
+Centrifugal pumps: Components, working principle, head and efficiency. Multistage Centrifugal pumps. Pump characteristics,
+NPSH and Cavitation. [05] </item>
+        <item>Empty</item>
+        <item>Empty</item>
+        <item>Books Recommended
+1. Fluid Mechanics and Turbo Machines –M.M.Das, PHI, 2010.
+2. Fluid Mechanics and Machinery –R.K.Bansal, Luxmi Publications.
+3. Fluid Mechanics and Machinery –C.Ratnam, A.V.Kothapalli, I.K. International Publishing House Ltd, 2010.
+4. Introduction to Fluid Mechanics v Fluid Machines –Som and Biswas, TMH.
+5. Fluid Mechanics and Machinery –C.S.P Ojha, R.Berndtsson, P.N. Chandramouli, OUP.
+6. Introduction to Fluid Mechanics –Fox and Macdonald, Wiley.
+7. Fluid Mechanics –Fundamentals and Applications –Cengel and Cimbala, TMH.
+8. Ojha,C S P,Berndtsson. R,Chandramouli. P. N.</item>
+        <item>Empty</item>
+    </string-array>
+
+    <string-array name="Mechanisms">
+        <item>Module 1.A
+Introduction to mechanisms, Difference between Machine and Mechanism; Classification of Pairs of Elements, Kinematic chain,
+types of joints in a chain; Four-bar linkage: motions of links, Grashofs criterion of movability. [2L]
+Module 1.B
+Degrees of freedom for plane Mechanisms, Grueblers criterion for plane mechanism, Kinematic inversions –four Inversions of a
+Slider-Crank Chain. [3L] </item>
+        <item>Module 2
+Velocity analysis in Mechanisms: Relative velocity method –slider crank mechanism, four bar mechanism, Crank and slotted
+lever mechanism; Instantaneous centre method –ennedys theorem; Acceleration analysis: Acceleration Images, Kleins
+construction, analytical expression of velocity and acceleration. [7L]
+Module 3
+Belt-drive –introduction; Law of belting, Length of flat belt for open and cross belt connections; Stepped pulley for open flat
+belt; Tension in flat belt and V-belts; Power transmitted in belt drive [4L] </item>
+        <item>Module 4
+Gear terminology, Laws of gearing, types of gears –Spur, Bevel, Helical, Worm; tooth profile, interference; Gear trains –simple,
+compound, epicyclic gear train; Speed-torque analysis of gear trains. [6L]
+Module 5
+Classification of Cams and followers; Radial Cam, Analysis of knife-edge, roller and flat face follower motion –constant velocity,
+simple harmonic, constant acceleration and deceleration; Offset follower. [6L] </item>
+        <item>Module 6A
+Kinematic Synthesis: Introduction to problems of function generation, path generation and rigid body guidance; Type, Number
+and Dimensional Synthesis; Two and three position synthesis of four bar mechanism and slider –rank mechanism : Graphical –
+pole, Relative pole and Inversion method; Analytical solution - Freudensteins Method. [5L]
+Module 6B
+Study of lower pair Mechanisms- Pantograph, Parallel linkage mechanisms, Straight line mechanism, Automobile steering
+mechanism, Hooks joint. [3L] </item>
+        <item>Books Recommended :
+1. Elements of Mechanism –Daughty and James, McGraw Hill
+2. Theory of Machines –S S Rattan, Tata McGraw Hill
+3. Theory of Mechanisms and Machines –A.Ghosh and A.K.Mallik, AEWP
+4. Design of Machinery –R.L.Norton, Tata McGraw Hill
+5. Mechanism and Machine Theory –Rao, R.V. Dukkipati, Wiley
+6. Theory of Machines, V.P.Singh, Dhanpat Rai and Co</item>
+        <item>Empty</item>
+    </string-array>
+
+
+    <string-array name="Mathematics_III">
+        <item> Module I: Fourier Series and Fourier Transform [8L]
+Topic: Fourier Series:
+Sub-Topics: Introduction, Periodic functions: Properties, Even and Odd functions: Properties, Special wave forms: Square
+wave, Half wave Rectifier, Full wave Rectifier, Saw-toothed wave, Triangular wave.
+
+(1)
+Eulers Formulae for Fourier Series, Fourier Series for functions of period 2π, Fourier Series for functions of period 2l,
+Dirichlets conditions, Sum of Fourier series. Examples. (1)
+Theorem for the convergence of Fourier Series (statement only). Fourier Series of a function with its periodic
+extension. Half Range Fourier Series: Construction of Half range Sine Series, Construction of Half range Cosine Series.
+Parsevals identity (statement only). Examples. (2)
+Topic: Fourier Transform:
+Sub-Topics: Fourier Integral Theorem (statement only), Fourier Transform of a function, Fourier Sine and Cosine Integral
+Theorem (statement only), Fourier Cosine and Sine Transforms.
+Fourier, Fourier Cosine and Sine Transforms of elementary functions. (1)
+Properties of Fourier Transform: Linearity, Shifting, Change of scale, Modulation. Examples.
+Fourier Transform of Derivatives. Examples. (1)
+Convolution Theorem (statement only), Inverse of Fourier Transform, Examples. (2)
+</item>
+        <item> Module II : Calculus of Complex Variable [13L]
+Topic: Introduction to Functions of a Complex Variable.
+Sub-Topics: Complex functions, Concept of Limit, Continuity and Differentiability. (1)
+Analytic functions, Cauchy-Riemann Equations (statement only). Sufficient condition for a function to be analytic.
+Harmonic function and Conjugate Harmonic function, related problems. (1)
+Construction of Analytic functions: Milne Thomson method, related problems. (1)
+Topic: Complex Integration.
+Sub-Topics: Concept of simple curve, closed curve, smooth curve and contour. Some elementary properties of complex
+Integrals. Line integrals along a piecewise smooth curve. Examples. (2)
+Cauchy’s theorem (statement only). Cauchy-Goursat theorem (statement only). Examples. (1)
+Cauchy’s integral formula, Cauchys integral formula for the derivative of an analytic function, Cauchys integral formula
+for the successive derivatives of an analytic function. Examples. (2)
+Taylor’s series, Laurents series. Examples (1)
+Topic: Zeros and Singularities of an Analytic Function and Residue Theorem.
+Sub-Topics: Zero of an Analytic function, order of zero, Singularities of an analytic function. Isolated and non-isolated
+singularity, essential singularities. Poles: simple pole, pole of order m.
+Examples on determination of singularities and their nature. (1)
+Residue, Cauchys Residue theorem (statement only), problems on finding the residue of a given function, evaluation of
+definite integrals:
+2
+0 0
+sin ( )
+ , ,
+cos sin ( ) C
+x d P z
+dx dz
+x a b c Q z
+π θ
+θ θ
+∞
++ + ∫ ∫ ∫
+ (elementary cases, P(z) and Q(z) are
+polynomials of 2nd order or less). (2)
+Topic: Introduction to Conformal Mapping.
+Sub-Topics: Concept of transformation from z-plane to w-plane. Concept of Conformal Mapping. Idea of some standard
+transformations. Bilinear Transformation and determination of its fixed point.
+
+(1) </item>
+        <item> Module III: Probability [8L]
+Topic: Basic Probability Theory
+Sub-Topics: Classical definition and its limitations. Axiomatic definition.
+Some elementary deduction: i) P(O)=0, ii) 0≤P(A)≤1, iii) P(A’)=1-P(A) etc. where the symbols have their usual meanings.
+Frequency interpretation of probability. (1)
+mywbut.com
+Addition rule for 2 events (proof) and its extension to more than 2 events (statement only). Related problems.
+Conditional probability and Independent events. Extension to more than 2 events (pairwise and mutual independence).
+Multiplication Rule. Examples. Bayes theorem (statement only) and related problems.
+(3)
+Topic: Random Variable and Probability Distributions. Expectation.
+Sub-Topics: Definition of random variable. Continuous and discrete random variables. Probability density function and
+probability mass function for single variable only. Distribution function and its properties (without proof). Examples.
+Definitions of Expectation and Variance, properties and examples.
+(2)
+Some important discrete distributions: Binomial and Poisson distributions and related problems.
+Some important continuous distributions: Uniform, Exponential, Normal distributions and related problems. Determination
+of Mean and Variance for Binomial, Poisson and Uniform distributions only. </item>
+        <item> Module IV: Partial Differential Equation (PDE) and Series solution of
+ Ordinary Differential Equation (ODE) [13L]
+Topic: Basic concepts of PDE.
+Sub-Topics: Origin of PDE, its order and degree, concept of solution in PDE. Introduction to different methods of solution:
+Separation of variables, Laplace and Fourier transform methods. (1)
+Topic: Solution of Initial Value and Boundary Value PDEs by Separation of variables, Laplace and Fourier transform
+methods.
+Sub-Topics:
+ PDE I: One dimensional Wave equation. (2)
+PDE II: One dimensional Heat equation. (2)
+PDE III: Two dimensional Laplace equation. (2)
+Topic: Introduction to series solution of ODE.
+Sub-Topics: Validity of the series solution of an ordinary differential equation.
+General method to solve Po y+P1 y+P2 y=0 and related problems. (2)
+Topic: Bessels equation.
+Sub-Topics: Series solution, Bessel function, recurrence relations of Bessel’s
+Function of first kind. (2)
+Topic: Legendres equation.
+Sub-Topics: Series solution, Legendre function, recurrence relations and
+orthogonality relation. </item>
+        <item> Text Books:
+2. Brown J.W and Churchill R.V: Complex Variables and Applications, McGraw-Hill.
+3. Das N.G.: Statistical Methods, TMH.
+4. Grewal B S: Higher Engineering Mathematics, Khanna Publishers.
+5. James G.: Advanced Modern Engineering Mathematics, Pearson Education.
+6. Lipschutz S., and Lipson M.L.: Probability (Schaums Outline Series), TMH. </item>
+        <item> References:
+1. Bhamra K. S.: Partial Differential Equations: An introductory treatment with applications, PHI
+2. Dutta Debashis: Textbook of Engineering Mathematics, New Age International Publishers.
+3. Kreyzig E.: Advanced Engineering Mathematics, John Wiley and Sons.
+4. Potter M.C, Goldberg J.L and Aboufadel E.F.: Advanced Engineering Mathematics, OUP.
+5. Ramana B.V.: Higher Engineering Mathematics, TMH.
+6. Spiegel M.R. , Lipschutz S., John J.S., and Spellman D., : Complex Variables, TMH. </item>
+    </string-array>
+
+    <string-array name="Numerical_Methods">
+        <item>Approximation in numerical computation: Truncation and rounding errors, Fixed and floating-point
+arithmetic, Propagation of errors. [4]
+Interpolation: Newton forward/backward interpolation, Lagranges and Newtons divided difference
+Interpolation. [5]</item>
+        <item>Numerical integration: Trapezoidal rule, Simpsons 1/3 rule, Expression for corresponding error
+terms. [3]</item>
+
+        <item>Numerical solution of a system of linear equations:
+Gauss elimination method, Matrix inversion, LU Factorization method, Gauss-Seidel iterative
+method. [6]</item>
+
+        <item>Numerical solution of Algebraic equation:
+Bisection method, Regula-Falsi method, Newton-Raphson method. [4]
+Numerical solution of ordinary differential equation: Eulers method, Runge-Kutta methods,
+Predictor-Corrector methods and Finite Difference method. [6]</item>
+
+        <item>Text Books:
+1. C.Xavier: C Language and Numerical Methods.
+2. Dutta and Jana: Introductory Numerical Analysis.
+3. J.B.Scarborough: Numerical Mathematical Analysis.
+4. Jain, Iyengar , and Jain: Numerical Methods (Problems and Solution).
+</item>
+        <item>References:
+1. Balagurusamy: Numerical Methods, Scitech.
+2. Baburam: Numerical Methods, Pearson Education
+3. N. Dutta: Computer Programming and Numerical Analysis, Universities Press.
+4. Soumen Guha and Rajesh Srivastava: Numerical Methods, OUP.
+5. Srimanta Pal: Numerical Methods, OUP.</item>
+
+
+    </string-array>
+
+
+    <string-array name="ElectricMachine">
+        <item> . Electromechanical Energy Conversion Principle, Singly Excited Magnetic System and Doubly
+Excited Magnetic system. Physical concept of torque production; Electromagnetic torque and
+Reluctance torque. [2]
+. Concept of General terms pertaining to Rotating Machines: Electrical and Mechanical degree,
+Pole pitch, Coil, Generated EMF in full pitched coil, Generated EMF in a short pitched coil, EMF
+polygon. [2]
+. Distribution factor, Pitch factor. MMF produced by Distributed Windings, MMF of a coil, MMF
+of single phase distributed Winding, MMF waveform of Commutator machines. [2]  </item>
+        <item> DC Machines:
+• EMF generated in the armature. Methods of Excitation, Armature reaction and its effect in the
+performance, Methods of decreasing the effects of Armature reaction, Effect of Brush shift. [3]
+• Commutation process, Resistance commutation, Delayed commutation, Voltage
+commutation, Improvement of Commutation. [2]
+• Operating Characteristics of DC Generators: Separately Excited generators, Shunt Generators,
+Series Generators and Compound Generators. [2]
+• Torque equation of D.C motor, Operating Characteristics of Shunt, Series and Compound
+motors. [2]
+• Losses and efficiency of DC machines, Hopkinson’s and Swinburne’s test. [2]
+•D.C Machine application: Generator application, Motor application [1]  </item>
+        <item> 3-Phase Induction machine:
+• Induction motor as a Transformer, Flux and MMF phasors in Induction motors [1]
+• Equivalent circuit, Performance equations, Induction motor phasor diagram [2]
+• Toque-slip characteristic, Power slip characteristic, Determination of equivalent circuit
+parameters. [2]
+• Methods of starting of squirrel Cage and Wound rotor Motors. [1]
+• Speed control of Induction motor [2]
+• Polarity Test, Application of Polyphase Induction motor. [1] </item>
+        <item> 3-Phase Transformer:
+• Determination of polarity and connections (star/star, star/delta, delta/star, star/zigzag, delta/
+zigzag, open delta), Phasor groups. [3]
+• Effect of unbalanced loading, Production of Harmonics in Transformer and its suppression, [1]
+• 3 phase to 2 phase transformation, Scott connection, 3 phase to 6 phase connections, Double
+star and Double delta, [3]
+• 3 winding transformer: Parameter estimation, application, [2]
+• Parallel operation of Transformers, Introduction to Tap changing transformer and its function.
+[2]
+• Special Transformers: Potential transformer, Current transformer, Pulse transformer, Audio
+frequency transformer, Grounding transformer, Pulse transformer. [2]  </item>
+        <item> Text Books:
+1 Electrical Machinery, P.S. Bhimra, 6th Edition, Khanna Publishers.
+2 Electric machines, D.P. Kothari and I.J Nagrath, 3rd Edition, Tata Mc Graw-Hill Publishing
+Company Limited.
+3 Electrical Machines, P.K. Mukherjee and S. Chakrabarty, Dhanpat Rai Publication.  </item>
+        <item> Reference Books:
+1. Electric Machinery and Transformers, Bhag S. Guru and H.R. Hiziroglu, 3rd Edition, Oxford
+University press.
+2. Electrical Machines, R.K. Srivastava, Cengage Learning
+3. Theory of Alternating Current Machinery, Alexander S Langsdorf, Tata Mc Graw Hill Edition.
+4. The performance and Design of Alternating Current Machines, M.G.Say, CBS Publishers and
+Distributors.
+5. Electric Machinery and transformer, Irving L Koskow, 2nd Edition, Prentice Hall India  </item>
+    </string-array>
+
+
+    <string-array name="Electrical_Electronic_measurement">
+        <item> Measurements:
+• Method of measurement, Measurement system, Classification of instruments, Definition of
+accuracy, Precision, Resolution, Speed of response, Error in measurement, Classification of
+errors, loading effect due to shunt and series connected instruments. [3]
+Analog meters:
+• General features, Construction, Principle of operation and torque equation of Moving coil,
+Moving iron, Electrodynamometer, Induction instruments [3]
+• Principle of operation of the Electrostatic, Thermoelectric, Rectifier type instruments,
+Extension of instrument ranges and multipliers. [3]  </item>
+        <item> Instrument transformer:
+• Disadvantage of shunt and multipliers, Advantage of Instrument transformers, Principle of
+operation of Current and Potential transformer, errors. [4]
+Measurement of Power:
+• Principle of operation of Electrodynamic and Induction type wattmeter. Wattmeter errors. [3]
+Measurement of resistance:
+• Measurement of medium, low and high resistances, Megger. [4]unit2 content </item>
+        <item> Measurement of Energy:
+• Construction, theory and application of AC energy meter, testing of energy meters. [3]
+Potentiometer:
+• Principle of operation and application of Crompton’s DC potentiometer, Polar and Coordinate type AC potentiometer. Application. [4]
+AC Bridges:
+•Measurement of Inductance, Capacitance and frequency by AC bridges. [4]  </item>
+        <item>Cathode ray oscilloscope (CRO):
+• Measurement of voltage, current, frequency and phase by oscilloscope. Frequency limitation of
+CRO. Sampling and storage oscilloscope, Double beam CRO. [3]
+Electronic Instruments:
+• Advantages of digital meter over analog meters, Digital voltmeter, Resolution and sensitivity
+of digital meters, Digital multimeter, Digital frequency meter, Signal generator. [4]
+Sensors and Transducers:
+• Introduction to sensors and Transducers, Strain gauge, LVDT, Temperature transducers, Flow
+measurement using magnetic flow measurement. [3]  </item>
+        <item> Text Books:
+1. A course in Electrical and Electronic Measurements and Instrumentation, A.K. Sawhney, Dhanpat
+Rai and sons.
+2. Electrical Measurement and Measuring Instruments, E.W. Golding and F.C. Wides, Wheeler
+Publishing.
+3. Electronic Instruments, H.S. Kalsi, Tata Mc-Graw hill, 2nd Edition.  </item>
+        <item> Reference Books:
+1. Sensors and Transducers, D. Patranabis, PHI, 2nd edition.
+2. Digital Instrumentation, A.J. Bouwens, Tata Mc-Graw hill.
+3. Modern Electronic instrumentation and Measuring instruments, A.D. Heltric and W.C. Copper,
+Wheeler Publication.
+4. Instrument transducers, H.K.P. Neubert, Oxford University press. </item>
+    </string-array>
+
+
+    <string-array name="Thermal_Power_Engineering">
+        <item> Water Tube and Fire Tube boilers, Circulating Principles, Forced Circulation, Critical pressure,
+Superheaters, Reheaters, attemperators, induced draught, forced draught and secondary air
+Fans, Boiler performance analysis and heat balance. Combustion Systems, Environmental
+Protection – ESP, Cyclone Separator, Dust Collector etc.  </item>
+        <item> Rotary Thermodynamic devices – Steam turbines and their classifications – Impulse and Reaction
+type Turbines, Thermodynamics of compressible fluid-flow, equation and continuity –
+Isentropic flow through nozzles, velocity diagram, Blade efficiency, optimum velocity ratio,
+multi-staging, velocity and pressure compounding, losses in turbines, erosion of turbine blades,
+turbine governing, performance analysis of turbine, Condensing system.  </item>
+        <item> IC Engines – classification. Analysis of a standard cycle, fuel characteristic of SI and CI Engine,
+Combustion, Engine performance. Automotive Engine exhaust emission and their control.
+Gas turbine Analysis – Regeneration - Reheating, Isentropic efficiency. Combustion efficiency.  </item>
+        <item> EMPTY </item>
+        <item>Text:
+1. P.K.Nag- Engineering Thermodynamics – TMH ,2/e
+2. P K Nag- Power Plant Engg. - TMH Pub
+3. P.S. Ballaney- Thermal Engineering – Khanna Pub
+4. Domkundwar and Arora- Power Plant Engineering –.Dhanpat Rai and Co.  </item>
+        <item> Reference:
+1. Cengel --- Thermodynamics , 3/e ,TMH
+2. Et-Wakil—Power Plant Engineering , MH
+3. M W Zemansky and R.H.Dittman -Heat and Thermodynamics – McGraw Hill ,7/e
+ </item>
+    </string-array>
+
+    <string-array name="Physics">
+        <item> Quantum mechanics:
+• Generalized co-ordinates, Lagrange’s equation of motion and Lagrangian, generalized force potential,
+moment and energy. Hamilton’s Equation of motion and Hamiltonian. Properties of Hamilton and
+Hamilton’s equation of motion. [6]
+•Concept of probability and probability density, operator, Commutator, Formulation of quantum
+mechanics and Basic postulates, Operator correspondence, Time dependent Schrodinger’s equation,
+formulation of time independent Schrodinger’s equation by method of separation of variables, Physical
+interpretation of wave function Ψ(normalization and probability interpretation), Expectation values,
+Application of Schrodinger equation-Particle in an infinite square well potential (1-D and 3-D potential
+well), Discussion on degenerate levels. [10]  </item>
+        <item> Statistical mechanics:
+•Concept of energy levels and energy states. Microstates, Macrostates and thermodynamic probability,
+equilibrium macrostate. MB, FD, BE statistics (no deduction necessary), fermions, bosons (definitions in
+terms of spin, examples), physical significance and application, classical limits of quantum statistics. Fermi
+distribution at zero and non –zero temperature. [4]  </item>
+        <item> Dielectric Properties:
+•Dielectric Material: Concept of Polarization, the relation between D, E and P, Polarizability, Electronic,
+Ionic, Orientation and Space charge polarization, behavior of Dielectric under alternating field, Dielectric
+losses. [3]
+            The Magnetic properties:
+•Magnetization M, relation between B, H and M. Bohr megneton, Diamagnetism-Larmor frequency and
+susceptibility, Curie law, Weiss molecular field theory and Curie-Weiss law, Hysteresis loss,
+Antiferromagnetism, Ferromagnetism and Ferrites (analitative). [4]
+
+        </item>
+        <item> •Crystal structure- Bravais lattice, Miller indices [1]
+             Bragg law and reciprocal lattice,Brillouin zone[2]
+            •Free electron theory of metal –calculation of Fermi energy, density of states. [2]
+•Band theory of solids- Bloch theorem, Kronig Penny model. [3]
+•Electronic conduction in solids-Drude’s theory, Boltzmann equation, Wiedemann Frantz law. [3]
+•Semiconductor-Band structure, concept of electron and holes, Fermi level, density of states. [3]
+ </item>
+        <item> Text Books:
+1. Perspectives of Modern Physics: A. Baiser
+2. Modern Physics and Quantum Mechanics E.E. Anderson
+2.Refresher course in B.Sc. Physics (Vol. III): C.L. Arora
+3.Fundamentlas of Physics (Vol. III): Haliday, Resnick and Krane
+4.Engineering Physics: R.K. Kar </item>
+        <item> 5.Classical Mechanics: a) A.K. Roychaudhuri
+b) R.G. Takwal and P.S. Puranic
+6. Quantum Mechanics: a) Eisberg and Resnic
+mywbut.com
+b) A.K. Ghatak and S. Lokanathan
+c) S.N. Ghoshal
+7.Statistical Mechanics and Thermal Physics: a) Sears and Salinger
+b) Avijit Lahiri
+c) Evelyn Guha
+8.Solid Sate Physics: a) A.J. Dekker
+b) C. Kittel
+c) Aschroft and Mermin
+d) S.O. Pillai
+ </item>
+    </string-array>
+
+    <string-array name="Values_and_Ethics_in_Profession">
+        <item> Effects of Technological Growth:
+Rapid Technological growth and depletion of resources, Reports of the Club of Rome. Limits of
+growth: sustainable development
+Energy Crisis: Renewable Energy Resources
+Environmental degradation and pollution. Eco-friendly Technologies. Environmental Regulations,
+Environmental Ethics
+Appropriate Technology Movement of Schumacher; later developments
+Technology and developing notions. Problems of Technology transfer, Technology assessment
+impact analysis.
+Human Operator in Engineering projects and industries. Problems of man, machine, interaction,
+Impact of assembly line and automation. Human centered Technology.  </item>
+        <item> Ethics of Profession:
+Engineering profession: Ethical issues in Engineering practice, Conflicts between business demands
+and professional ideals. Social and ethical responsibilities of Technologists. Codes of professional
+ethics. Whistle blowing and beyond, Case studies </item>
+        <item>Profession and Human Values:
+Values Crisis in contemporary society
+Nature of values: Value Spectrum of a good life
+Psychological values: Integrated personality; mental health
+Societal values: The modern search for a good society, justice, democracy, secularism, rule of law,
+values in Indian Constitution.
+Aesthetic values: Perception and enjoyment of beauty, simplicity, clarity
+Moral and ethical values: Nature of moral judgements; canons of ethics; ethics of virtue; ethics of
+duty; ethics of responsibility.  </item>
+        <item> Empty </item>
+        <item> Books:
+1. Stephen H Unger, Controlling Technology: Ethics and the Responsible Engineers, John Wiley and
+Sons, New York 1994 (2nd Ed)
+2. Deborah Johnson, Ethical Issues in Engineering, Prentice Hall, Englewood Cliffs, New Jersey 1991.
+3. A N Tripathi, Human values in the Engineering Profession, Monograph published by IIM, Calcutta
+1996. </item>
+        <item> Empty </item>
+    </string-array>
+
+    <string-array name="Basic_Environmental_Engineering_and_Elementary_Biology">
+        <item> General
+Basic ideas of environment, basic concepts, man, society and environment, their interrelationship. [1L]
+Mathematics of population growth and associated problems, Importance of population study in
+environmental engineering, definition of resource, types of resource, renewable, non-renewable,
+potentially renewable, effect of excessive use vis-a-vis population growth, Sustainable
+Development. [2L]
+Materials balance: Steady state conservation system, steady state system with non conservative
+pollutants, step function. [1L]
+Environmental degradation: Natural environmental Hazards like Flood, earthquake, Landslidecauses, effects and control/management; Anthropogenic degradation like Acid rain-cause, effects
+and control. Nature and scope of Environmental Science and Engineering. [2L]  </item>
+        <item> Ecology
+Elements of ecology: System, open system, closed system, definition of ecology, species, population,
+community, definition of ecosystem- components types and function. [1L]
+Structure and function of the following ecosystem: Forest ecosystem, Grassland ecosystem, Desert
+ecosystem, Aquatic ecosystems, Mangrove ecosystem (special reference to Sundar ban); Food chain
+[definition and one example of each food chain], Food web. [2L]
+Biogeochemical Cycle- definition, significance, flow chart of different cycles with only elementary
+reaction [Oxygen, carbon, Nitrogen, Phosphate, Sulphur]. [1L]
+Biodiversity- types, importance, Endemic species, Biodiversity Hot-spot, Threats to biodiversity,
+Conservation of biodiversity. [2L] </item>
+        <item> Air pollution and control
+Atmospheric Composition: Troposphere, Stratosphere, Mesosphere, Thermosphere, Tropopause
+and Mesopause. [1L]
+Energy balance: Conductive and Convective heat transfer, radiation heat transfer, simple global
+temperature model [Earth as a black body, earth as albedo], Problems. [1L]
+Green house effects: Definition, impact of greenhouse gases on the global climate and consequently
+on sea water level, agriculture and marine food.Global warming and its consequence, Control of
+Global warming. Earth’s heat budget. [1L]
+Lapse rate: Ambient lapse rate Adiabatic lapse rate, atmospheric stability, temperature inversion
+(radiation inversion). [2L]
+Atmospheric dispersion: Maximum mixing depth, ventilation coefficient, effective stack height,
+smokestack plumes and Gaussian plume model. [2L]
+Definition of pollutants and contaminants, Primary and secondary pollutants: emission standard,
+criteria pollutant. Sources and effect of different air pollutants- Suspended particulate matter, oxides
+of carbon, oxides of nitrogen, oxides of sulphur, particulate, PAN. [2L]
+Smog, Photochemical smog and London smog. Depletion Ozone layer: CFC, destruction of ozone
+mywbut.com
+layer by CFC, impact of other green house gases, effect of ozone modification. [1L]
+Standards and control measures: Industrial, commercial and residential air quality standard, control
+measure (ESP. cyclone separator, bag house, catalytic converter, scrubber (ventury), Statement with
+brief reference). [1L]  </item>
+        <item> Water Pollution and Control
+Hydrosphere, Hydrological cycle and Natural water. Pollutants of water, their origin and effects:
+Oxygen demanding wastes, pathogens, nutrients, Salts, thermal application, heavy metals,
+pesticides, volatile organic compounds. [2L]
+River/Lake/ground water pollution: River: DO, 5 day BOD test, Seeded BOD test, BOD reaction rate
+constants, Effect of oxygen demanding wastes on river[deoxygenation, reaeration], COD, Oil,
+Greases, pH. [2L]
+Lake: Eutrophication [Definition, source and effect. [1L]
+Ground water: Aquifers, hydraulic gradient, ground water flow (Definition only) [1L]
+Standard and control: Waste water standard [BOD, COD, Oil, Grease], Water Treatment system
+[coagulation and flocculation, sedimentation and filtration, disinfection, hardness and
+alkalinity, softening]
+Waste water treatment system, primary and secondary treatments [Trickling filters, rotating
+biological contractor, Activated sludge, sludge treatment, oxidation ponds] tertiary treatment
+definition. [2L]
+Water pollution due to the toxic elements and their biochemical effects: Lead, Mercury, Cadmium,
+and Arsenic [1L]
+Land Pollution
+Lithosphere; Internal structure of earth, rock and soil [1L]
+Solid Waste: Municipal, industrial, commercial, agricultural, domestic, pathological and hazardous
+solid wastes; Recovery and disposal method- Open dumping, Land filling, incineration, composting,
+recycling. Solid waste management and control (hazardous and biomedical waste). [2L]
+Noise Pollution
+Definition of noise, effect of noise pollution, noise classification [Transport noise, occupational noise,
+neighbourhood noise] [1L]
+Definition of noise frequency, noise pressure, noise intensity, noise threshold limit value, equivalent
+noise level, L10 (18hr Index) , n Ld . Noise pollution control. [1L]
+Environmental Management:
+Environmental impact assessment, Environmental Audit, Environmental laws and protection act of
+India, Different international environmental treaty/ agreement/ protocol. [2L] </item>
+        <item> Empty </item>
+        <item> References/Books
+1. Masters, G. M., “Introduction to Environmental Engineering and Science”, Prentice-Hall of India
+Pvt. Ltd., 1991.
+2. De, A. K., “Environmental Chemistry”, New Age International. </item>
+    </string-array>
+
+    <string-array name="title">
+        <item> Module 1 </item>
+        <item> Module 2 </item>
+        <item> Module 3 </item>
+        <item> Module 4 </item>
+        <item> Text Books </item>
+        <item> Reference Books </item>
+    </string-array>
+
+
+    <string-array name="Holidays">
+
+        <item>Year_2019</item>
+
+
+    </string-array>
+
+
+    <string-array name="Year_2019">
+        <item>
+
+           1st January	Tuesday	New Year Day \n
+12th January	Saturday	Birthday of Swami Vivekananda \n
+23rd January	Wednesday	Birthday of Netaji \n
+26th January	Saturday	Republic Day \n
+10th February	Sunday	Saraswati Puja (Sree Panchami) \n
+11th February	Monday	Additional day in connection with Saraswati Puja \n
+4th March	Monday	Shivaratri \n
+21st March	Thursday	Doljatra \n
+22nd March	Friday	Holi (Day after Doljatra) \n
+14th April	Sunday	Birthday of Dr. B. R. Ambedkar \n
+15th April	Monday	Bengali New Year Day \n
+19th April	Friday	Good Friday \n
+1st May	Wednesday	May Day \n
+9th May	Thursday	Birthday of Rabindra Nath Tagore \n
+18th May	Saturday	Buddha Purnima \n
+5th June	Wednesday	Id-Ul-Fitar \n
+12th August	Monday	Id-Ud-Zoha (Bakrid) \n
+15th August	Thursday	Independence Day \n
+23rd August	Friday	Janmastami \n
+10th September	Tuesday	Muharram \n
+28th September	Saturday	Mahalaya \n
+2nd October	Wednesday	Birthday of Gandhiji \n
+3rd October	Thursday	Panchami of Durga Puja \n
+4th October	Friday	Mahasasthi of Durga Puja \n
+5th October	Saturday	Durga Puja - Saptami \n
+6th October	Sunday	Durga Puja - Astami \n
+7th October	Monday	Durga Puja - Nabami \n
+8th October	Tuesday	Durga Puja - Vijaya Dasami \n
+9th October	Wednesday	Additional days in connection with Durga Puja \n
+10th October	Thursday	Additional days in connection with Durga Puja \n
+11th October	Friday	Additional days in connection with Durga Puja \n
+12th October	Saturday	Additional days in connection with Durga Puja \n
+13th October	Sunday	Lakshmi Puja \n
+14th October	Monday	Additional days in connection with Lakshmi Puja \n
+15th October	Tuesday	Additional days in connection with Lakshmi Puja \n
+27th October	Sunday	Kali Puja \n
+28th October	Monday	Additional days in connection with Kali Puja \n
+29th October	Tuesday	Bhatridwitya \n
+30th October	Wednesday	Additional days in connection with Bhatridwiya \n
+2nd November	Saturday	Chhat Puja \n
+10th November	Sunday	Fateha-Dwaz-Daham \n
+12th November	Tuesday	Birthday of Guru Nanak \n
+25th December	Wednesday	Christmas Day \n
+        </item>
+
+
+        <item> <b>Govt. (Sectional) Holiday</b> :-
+Date	Day	Particulars of Holiday \n
+17th April	Wednesday	Mahabir Jayanti (for Jains only) \n
+20th April	Saturday	Easter Saturday (for Christians only) \n
+
+
+<b>Karam Puja (To be notified later on) </b> \n
+14th April	Sunday	Baisakhi (for Sikhs only) \n
+21st April	Sunday	Sab-e-Barat (for Muslims only) \n
+30th June	Sunday	Hul Diwas [for Adivasi (Santal) only] \n
+13th July	Saturday	Birthday of Poet Bhanu Bhakt (for Darjeeling and Kalimpong district only) \n
+           </item>
+        >
+
+        <item><b>University Extra Holiday</b>:-
+
+18th September	Wednesday	Biswakarma Puja \n
+11th November	Monday	Birthday of Maulana Abul Kalam Azad
+
+
+
+
+
+
+        </item>
+
+
+    </string-array>
+
+
+    <string-array name="holtitle">
+        <item> Normal Holiday </item>
+        <item>Govt. (Sectional) Holiday</item>
+        <item>University Extra Holiday</item>
+
+    </string-array>
+
+
+</resources>
